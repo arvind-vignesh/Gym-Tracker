@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.GymTracker" parent="Theme.MaterialComponents.Light" />
+</resources>
